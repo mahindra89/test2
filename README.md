@@ -2,7 +2,7 @@
 
 An interactive React + TypeScript web application that generates and visualizes chunked job schedules using Gantt charts.
 
-## 🚀 Features
+#🚀 Features
 - Visual Gantt chart rendering
 - Custom job input forms
 - Real-time results table
